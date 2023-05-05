@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/42-#000000?style=flat-square&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=appveyor&logoColor=white"/>
 
 <!--
 **TannyKim/TannyKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
